@@ -1,0 +1,16 @@
+C:\Users\janke\source\repos\Programowanie_Zaliczenie_KSkuratowicz\Programowanie_Zaliczenie_KSkuratowicz\bin\Debug\net5.0\pzalicz_KSkuratowicz.exe
+C:\Users\janke\source\repos\Programowanie_Zaliczenie_KSkuratowicz\Programowanie_Zaliczenie_KSkuratowicz\bin\Debug\net5.0\pzalicz_KSkuratowicz.deps.json
+C:\Users\janke\source\repos\Programowanie_Zaliczenie_KSkuratowicz\Programowanie_Zaliczenie_KSkuratowicz\bin\Debug\net5.0\pzalicz_KSkuratowicz.runtimeconfig.json
+C:\Users\janke\source\repos\Programowanie_Zaliczenie_KSkuratowicz\Programowanie_Zaliczenie_KSkuratowicz\bin\Debug\net5.0\pzalicz_KSkuratowicz.runtimeconfig.dev.json
+C:\Users\janke\source\repos\Programowanie_Zaliczenie_KSkuratowicz\Programowanie_Zaliczenie_KSkuratowicz\bin\Debug\net5.0\pzalicz_KSkuratowicz.dll
+C:\Users\janke\source\repos\Programowanie_Zaliczenie_KSkuratowicz\Programowanie_Zaliczenie_KSkuratowicz\bin\Debug\net5.0\pzalicz_KSkuratowicz.pdb
+C:\Users\janke\source\repos\Programowanie_Zaliczenie_KSkuratowicz\Programowanie_Zaliczenie_KSkuratowicz\obj\Debug\net5.0\pzalicz_KSkuratowicz.csproj.AssemblyReference.cache
+C:\Users\janke\source\repos\Programowanie_Zaliczenie_KSkuratowicz\Programowanie_Zaliczenie_KSkuratowicz\obj\Debug\net5.0\pzalicz_KSkuratowicz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janke\source\repos\Programowanie_Zaliczenie_KSkuratowicz\Programowanie_Zaliczenie_KSkuratowicz\obj\Debug\net5.0\pzalicz_KSkuratowicz.AssemblyInfoInputs.cache
+C:\Users\janke\source\repos\Programowanie_Zaliczenie_KSkuratowicz\Programowanie_Zaliczenie_KSkuratowicz\obj\Debug\net5.0\pzalicz_KSkuratowicz.AssemblyInfo.cs
+C:\Users\janke\source\repos\Programowanie_Zaliczenie_KSkuratowicz\Programowanie_Zaliczenie_KSkuratowicz\obj\Debug\net5.0\pzalicz_KSkuratowicz.csproj.CoreCompileInputs.cache
+C:\Users\janke\source\repos\Programowanie_Zaliczenie_KSkuratowicz\Programowanie_Zaliczenie_KSkuratowicz\obj\Debug\net5.0\pzalicz_KSkuratowicz.dll
+C:\Users\janke\source\repos\Programowanie_Zaliczenie_KSkuratowicz\Programowanie_Zaliczenie_KSkuratowicz\obj\Debug\net5.0\refint\pzalicz_KSkuratowicz.dll
+C:\Users\janke\source\repos\Programowanie_Zaliczenie_KSkuratowicz\Programowanie_Zaliczenie_KSkuratowicz\obj\Debug\net5.0\pzalicz_KSkuratowicz.pdb
+C:\Users\janke\source\repos\Programowanie_Zaliczenie_KSkuratowicz\Programowanie_Zaliczenie_KSkuratowicz\obj\Debug\net5.0\pzalicz_KSkuratowicz.genruntimeconfig.cache
+C:\Users\janke\source\repos\Programowanie_Zaliczenie_KSkuratowicz\Programowanie_Zaliczenie_KSkuratowicz\obj\Debug\net5.0\ref\pzalicz_KSkuratowicz.dll

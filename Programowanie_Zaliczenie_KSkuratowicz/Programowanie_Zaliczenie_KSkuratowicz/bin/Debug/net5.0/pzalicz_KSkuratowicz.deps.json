@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "pzalicz_KSkuratowicz/1.0.0": {
+        "runtime": {
+          "pzalicz_KSkuratowicz.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pzalicz_KSkuratowicz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
